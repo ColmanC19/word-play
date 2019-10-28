@@ -7,6 +7,7 @@ $(document).ready(function(){
     console.log(word2[1]);
     console.log(sentence)
     var sentence2 = sentence.split(' ');
+
     console.log(sentence2)
     event.preventDefault()
   });
